@@ -14,7 +14,7 @@
 **Talking about Personal Stuffs:**
 
 - 💼 I’m currently pursuing my final year of Bachelor's degree in Electronics and Communication at [RKGIT](https://www.rkgit.edu.in/);
-- 🤔 My interests are with Web App Development 🖥️, Data Science 📊, Cricket 🏏, Space 🚀, etc..;
+- 🤔 My interests are with Web Web Development 🖥️, Data Science 📊, Cricket 🏏, Space 🚀, etc..;
 - 🎬 I love watching movies and I'm a big fan of MCU <img src="https://www.pngfind.com/pngs/m/173-1737725_captain-americas-shield-hd-png-download.png" width=15 height=15>
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via Taukir016@gmail.com or ping me on [LinkedIn](https://www.linkedin.com/in/mohd-taukir-ansari-734008179/) to reach me;
